@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karine and I study Cybersecurity at Høyskolen Kristiania
-- 🌱 I’m currently learning HTML, CSS and JavaScript using Visual Studio Code
+- 🌱 I’ve been learning HTML, CSS, JavaScript and Java
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=karasp02&layout=compact&theme=light)
 <!---
